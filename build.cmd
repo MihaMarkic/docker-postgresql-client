@@ -1,0 +1,1 @@
+ docker build -t mihamarkic/postgresql-client:latest -t mihamarkic/postgresql-client:10.0 .
